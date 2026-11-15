@@ -1,3 +1,4 @@
+
 # Hi, I'm Osaro Kingsley Victor 👋
 
 ### SKINGS — Building Digital Experiences.
@@ -31,13 +32,23 @@ I enjoy turning ideas into practical digital experiences through clean design, u
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-## 📌 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 ### 1. S.KINGS MART
+
 A WooCommerce-based multi-vendor marketplace featuring seller registration, product management, seller dashboards, order workflows and custom shipping functionality.
 
+![S.KINGS MART Homepage](https://raw.githubusercontent.com/skings-dev/skings-portfolio/main/assets/images/skings-mart-homepage.jpg)
+
 ### 2. KINGS-PORTAL
+
 A university student portal interface featuring student dashboards, course registration, results, GPA/CGPA, timetables, school fees and other academic services.
+
+![KINGS-PORTAL Homepage](https://raw.githubusercontent.com/skings-dev/skings-portfolio/main/assets/images/kings-portal-homepage.jpg)
+
+---
 
 ## 🌍 Connect With Me
 
@@ -48,3 +59,4 @@ A university student portal interface featuring student dashboards, course regis
 ---
 
 *SKINGS — Building Digital Experiences.*
+
